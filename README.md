@@ -1,9 +1,3 @@
 Create by yongchun on 20170925
 # povertyAlleviation_chaincode
-精准扶贫区块链部分
-
-参考地址：https://github.com/fospring/fabric-samples
-安装好环境后
-在：fabric-samples/balance-transfer/   目录下
-  1.运行 runApp.sh
-  2.运行 charityTest.sh
+操作失误，暂时没有想到删除或比较方便的更新办法，请忽略！
